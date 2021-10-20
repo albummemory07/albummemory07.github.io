@@ -441,7 +441,7 @@ nav {
   border-bottom: none;
 }
 .modal-header h3 {
-  color: #fff;
+  color: #000;
   font-weight: 400;
   letter-spacing: 1px;
   font-size: 64px;
@@ -458,7 +458,7 @@ nav {
 .modal-content .close-btn {
   position: absolute;
   z-index: 99999999;
-  color: #fff;
+  color: #000;
   right: 38px;
   top: 15px;
   width: 50px;
@@ -477,7 +477,7 @@ nav {
   padding-left: 15px;
   font-size: 14px;
   font-weight: 200;
-  color: #fff;
+  color: #000;
   background-color: rgba(250, 250, 250, 0.15);
   outline: none;
   border: none;
@@ -496,7 +496,7 @@ nav {
   padding-top: 10px;
   font-size: 14px;
   font-weight: 200;
-  color: #fff;
+  color: #000;
   background-color: rgba(250, 250, 250, 0.15);
   outline: none;
   border: none;
